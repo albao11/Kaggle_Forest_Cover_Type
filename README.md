@@ -8,7 +8,7 @@ Two datasets were provided:
 - A test dataset on which I had to predict the cover type labels. I was then evaluated on the accuracy of these predictions.
 
 More details about the competition and the associated final ranking can be found in:
-https://www.kaggle.com/c/sd701-cover-type-prediction-of-forests
+https://www.kaggle.com/c/sd701-cover-type-prediction-of-forests.
 
 ## Work overview
 I used scikit learn and Jupyter notebook for this competition. In order to test several models, I decided to do not work on the entire training set and to split it into 2 datasets: train_X (80%) and val_X (20%) with their corresponding labels (train_y, val_y). The first set was used for training my models and the second one was used to validate whether the chosen approach was good enough.
