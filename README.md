@@ -3,6 +3,10 @@
 ## Context
 In this competition, I was asked to predict the forest cover type from cartographic variables. The studied data was obtained from the US Geological Survey and US Forest Service. It was in raw form (not scaled) and contained binary columns of data for qualitative independent variables such as wilderness areas and soil types.
 
+Two datasets were provided:
+- A training dataset consisting of several features and containing the true cover type labels.
+- A test dataset on which I had to predict the cover type labels. I was then evaluated on the accuracy of these predictions.
+
 More details about the competition and the associated final ranking can be found in:
 https://www.kaggle.com/c/sd701-cover-type-prediction-of-forests
 
