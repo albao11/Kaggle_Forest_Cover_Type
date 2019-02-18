@@ -10,4 +10,4 @@ I used scikit learn and Jupyter notebook for this competition. In order to test 
 
 After spot-checking the performance of Logistic regression, Decision Tree Classifier and other ensemble learning techniques (Random forest and Extra Trees), I finally decided to spend more time fine tuning the Extra Trees classifier. After examining the feature importance, I adjusted the attributes and finally achieved an accuracy on the competition test set of 96 %. 
 
-A more detailed analysis is given in the jupyter notebook: **Kaggle_clean-OneVSRest.ipynb**.
+A more detailed analysis is given in the jupyter notebook: ![#c5f015] Kaggle_clean-OneVSRest.ipynb.
