@@ -1,5 +1,7 @@
 # Cover Type Prediction of Forests - Kaggle competition
 
+![alt text] (https://github.com/albao11/Kaggle_Forest_Cover_Type/blob/master/oak-hickory.jpg)
+
 ## Context
 In this competition, I was asked to predict the forest cover type from cartographic variables. The studied data was obtained from the US Geological Survey and US Forest Service. It was in raw form (not scaled) and contained binary columns of data for qualitative independent variables such as wilderness areas and soil types.
 
